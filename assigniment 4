@@ -19,12 +19,25 @@ Track expenses regularly with financial software.
 Prioritize critical features (MVP approach).
 Avoid scope creep through strong change management.
 3. Agile vs. Waterfall Methodologies
-Feature	Agile	Waterfall
-Flexibility	Highly adaptable	Rigid, structured
-Development approach	Iterative, incremental	Sequential, linear
-Client involvement	Continuous feedback	Defined at milestones
-Risk Management	Adapts to changes	Risk at later stages
-Best for	Dynamic, evolving projects	Well-defined, stable projects
+Feature
+Agile
+Waterfall
+Flexibility
+Highly adaptable
+Rigid, structured
+Development approach
+Iterative, incremental
+Sequential, linear
+Client involvement
+Continuous feedback
+Defined at milestones
+Risk Management
+Adapts to changes
+Risk at later stages
+Best for
+Dynamic, evolving projects
+Well-defined, stable projects
+
 Agile Pros: Faster adaptability, early issue detection.
 Agile Cons: Hard to estimate costs and timelines.
 Waterfall Pros: Clear structure, easier documentation.
@@ -87,3 +100,4 @@ Why it’s useful:
 Helps align with user demand.
 Avoids outdated technology choices.
 Identifies gaps in the market for a competitive edge.
+
